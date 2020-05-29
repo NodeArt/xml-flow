@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/matthewmatician/xml-flow",
   "dependencies": {
-    "sax": "^1.2.4"
+    "sax": "github:NodeArt/sax-js#v1.x"
   },
   "devDependencies": {
     "chai": "*",
